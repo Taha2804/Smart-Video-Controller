@@ -129,6 +129,7 @@ smart-video-controller/
 
 ## 🎯 How It Works
 
+
 ### Voice Control
 1. Microphone captures audio input
 2. Google Speech Recognition API converts speech to text
