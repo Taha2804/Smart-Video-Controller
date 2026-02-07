@@ -197,9 +197,6 @@ Contributions are welcome! Please follow these steps:
 - [ ] Gesture training mode
 - [ ] Offline voice recognition
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👏 Acknowledgments
 
@@ -208,9 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenCV** community for computer vision tools
 - Inspiration from accessibility-focused HCI research
 
-## 📧 Contact
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
 
 Project Link: [https://github.com/yourusername/smart-video-controller](https://github.com/yourusername/smart-video-controller)
 
