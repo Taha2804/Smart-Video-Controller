@@ -206,7 +206,7 @@ Contributions are welcome! Please follow these steps:
 - Inspiration from accessibility-focused HCI research
 
 
-Project Link: [https://github.com/yourusername/smart-video-controller](https://github.com/yourusername/smart-video-controller)
+Project Link: [https://github.com/yourusername/smart-video-controller](https://github.com/Taha2804/smart-video-controller)
 
 ---
 
